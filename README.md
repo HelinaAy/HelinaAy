@@ -2,7 +2,6 @@
 Computer Science Student at ASTU  
 Frontend Web Developer  
 Leetcoder 
-
 Currently learning Backend Development  
 Interested in Software Engineering and Open Source
  ## Skills
