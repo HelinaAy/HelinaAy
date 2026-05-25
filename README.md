@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Hilina Ayalew
-Computer Science Student at ASTU  
+Computer Science and Engineering Student  at ASTU  
 Frontend Web Developer  
 Leetcoder and currently learning Backend Development  
 Interested in Software Engineering and Open Source
