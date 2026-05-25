@@ -9,7 +9,7 @@ Interested in Software Engineering and Open Source
 - JavaScript
 - React
 - PHP
-- Laravel
+- NodeJs
 - MySQL
 - Python
 
