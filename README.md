@@ -4,7 +4,7 @@ Frontend Web Developer
 Leetcoder and currently learning Backend Development  
 Interested in Software Engineering and Open Source
  ## Skills
-- HTML | CSS | JavaScript | React | PHP | NodeJs | MySQL | Python
+- HTML  |  CSS  |  JavaScript  |  React  |  PHP  |  NodeJs  |  MySQL  |  Python
 
 
 
