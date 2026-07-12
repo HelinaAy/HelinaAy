@@ -6,9 +6,9 @@ Computer Science & Engineering student passionate about full-stack web developme
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** JavaScript, Python, C++, HTML5, CSS3
+- **Languages:** JavaScript, Python, PHP, HTML5, CSS3
 - **Frontend:** React.js, Tailwind CSS, Bootstrap
-- **Backend & DB:** Node.js, Express.js, MongoDB
+- **Backend & DB:** Node.js, Express.js, MySql
 - **Tools & Platforms:** Git, GitHub, VS Code, Netlify
 
 ---
